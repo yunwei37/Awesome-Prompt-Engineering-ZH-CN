@@ -1,14 +1,14 @@
-# Contribution Guidelines:
+# 贡献指南：
 
-Thank you for considering contributing to our Github project. To ensure a smooth and efficient contribution process, please adhere to the following guidelines:
+感谢您考虑为我们的 Github 项目做贡献。请遵守以下准则以确保贡献过程顺畅高效：
 
-- **Test your tools:**
-  - Before submitting a pull request, make sure to test the tools yourself. This ensures that they are functional and free from any errors or bugs.
-- **Ensure tool quality:** 
-  - Only link to tools that are of high quality and meet our project standards.
+- **测试您的工具：**
+  - 在提交拉取请求之前，请务必自行测试工具。这可以确保它们是功能齐全且不带任何错误或漏洞的。
+- **确保工具质量：**
+  - 仅链接到高质量且符合我们项目标准的工具。
 
-## Updating your PR
+## 更新您的 PR
 
-If the maintainers notice any changes that are required in your pull request, we will ask you to update it before merging. Instead of opening a new PR, simply edit the existing one.
+如果维护者注意到您的拉取请求需要作出更改，则会要求您在合并之前对其进行更新。请勿开启新的 PR，只需编辑现有的 PR 即可。
 
-Thank you for your suggestions and contributions!
+感谢您的建议和贡献！

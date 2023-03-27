@@ -3,330 +3,335 @@
       "p":"Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery",
       "i":"https://arxiv.org/abs/2302.03668",
       "y":2023,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Multimodal Chain-of-Thought Reasoning in Language Models",
+      "p":"多模式推理中的链式思维",
       "i":"https://arxiv.org/abs/2302.00923",
       "y":2023,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和场景中学习"
    },
    {
-      "p":"Large Language Models Can Be Easily Distracted by Irrelevant Context",
+      "p":"大型语言模型容易受到无关上下文的干扰",
       "i":"https://arxiv.org/abs/2302.00093",
       "y":2023,
-      "cc":"Evaluating and Improving Language Models"
+      "cc":"评估和改进语言模型"
    },
    {
-      "p":"Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models",
+      "p":"合成提示:为大型语言模型生成链式演示",
       "i":"https://arxiv.org/abs/2302.00618",
       "y":2023,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Progressive Prompts: Continual Learning for Language Models",
+      "p":"渐进提示:面向语言模型的持续学习",
       "i":"https://arxiv.org/abs/2301.12314",
       "y":2023,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Batch Prompting: Efficient Inference with LLM APIs",
+      "p":"批量提示:使用LLM APIs实现高效推理",
       "i":"https://arxiv.org/abs/2301.08721",
       "y":2023,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Prompting for Multimodal Hateful Meme Classification",
+      "p":"多模态仇恨模因分类的提示",
       "i":"https://arxiv.org/abs/2302.04156",
       "y":2023,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型应用"
    },
    {
-      "p":"PLACES: Prompting Language Models for Social Conversation Synthesis",
+      "p":"PLACES:为社交对话综合提示语言模型",
       "i":"https://arxiv.org/abs/2302.03269",
       "y":2023,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型应用"
    },
    {
-      "p":"Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation",
+      "p":"常识感知提示:可控情感对话生成",
       "i":"https://arxiv.org/abs/2302.01441",
       "y":2023,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型应用"
    },
    {
-      "p":"Crawling the Internal Knowledge-Base of Language Models",
+      "p":"爬取语言模型的内部知识库",
       "i":"https://arxiv.org/abs/2301.12810",
       "y":2023,
-      "cc":"Evaluating and Improving Language Models"
+      "cc":"评估和改进语言模型"
    },
    {
-      "p":"On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning",
+      ".{
+   {
+      "p":"在二次考虑时，我们不要逐步思考！零-shot 推理中的偏见和有毒行为",
       "i":"https://arxiv.org/abs/2212.08061",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Constitutional AI: Harmlessness from AI Feedback",
+      "p":"宪法 AI：通过 AI 反馈实现无害",
       "i":"https://arxiv.org/abs/2212.08073",
       "y":2022,
-      "cc":"Threat Detection and Adversarial Examples"
+      "cc":"威胁检测和对抗性示例"
    },
    {
-      "p":"Successive Prompting for Decompleting Complex Questions",
+      "p":"连续提示以解决复杂问题",
       "i":"https://arxiv.org/abs/2212.04092",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Discovering Language Model Behaviors with Model-Written Evaluations",
+      "p":"使用模型编写的评估发现语言模型行为",
       "i":"https://arxiv.org/abs/2212.09251",
       "y":2022,
-      "cc":"Evaluating and Improving Language Models"
+      "cc":"评估和改进语言模型"
    },
    {
-      "p":"Structured Prompting: Scaling In-Context Learning to 1,000 Examples",
+      "p":"结构化提示：将上下文学习扩展到 1,000 个示例",
       "i":"https://arxiv.org/abs/2212.06713",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"PAL: Program-aided Language Models",
+      "p":"PAL：面向程序的语言模型",
       "i":"https://arxiv.org/abs/2211.10435",
       "y":2022,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型的应用"
    },
    {
-      "p":"Large Language Models Are Human-Level Prompt Engineers",
+      "p":"大型语言模型是与人类同等的提示工程师",
       "i":"https://arxiv.org/abs/2211.01910",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Ignore Previous Prompt: Attack Techniques For Language Models",
+      "p":"忽略以前的提示：针对语言模型的攻击技术",
       "i":"https://arxiv.org/abs/2211.09527",
       "y":2022,
-      "cc":"Threat Detection and Adversarial Examples"
+      "cc":"威胁检测和对抗性示例"
    },
    {
-      "p":"Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods",
+      "p":"机器生成的文本：威胁模型和检测方法的全面调查",
       "i":"https://arxiv.org/abs/2210.07321",
       "y":2022,
-      "cc":"Threat Detection and Adversarial Examples"
+      "cc":"威胁检测和对抗性示例"
    },
    {
-      "p":"Ask Me Anything: A simple strategy for prompting language models",
+      "p":"问我任何事：提示语言模型的简单策略",
       "i":"https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
-   },
+      "cc":"提示工程技术"
+   }
+}{
    {
-      "p":"ReAct: Synergizing Reasoning and Acting in Language Models",
+      "p":"ReAct: 合成推理和语言模型中的行动",
       "i":"https://arxiv.org/abs/2210.03629",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Prompting GPT-3 To Be Reliable",
+      "p":"引导 GPT-3 成为可靠模型",
       "i":"https://arxiv.org/abs/2210.09150",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"引导工程技术"
    },
    {
-      "p":"Decomposed Prompting: A Modular Approach for Solving Complex Tasks",
+      "p":"Decomposed Prompting: 解决复杂任务的模块化方法",
       "i":"https://arxiv.org/abs/2210.02406",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"引导工程技术"
    },
    {
-      "p":"Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought",
+      "p":"语言模型是贪心推理器:len(Chain-of-Thought)",
       "i":"https://arxiv.org/abs/2210.01240v3",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples",
+      "p":"通过手工制作的对抗性例子评估预训练语言模型的易感性",
       "i":"https://arxiv.org/abs/2209.02128",
       "y":2022,
-      "cc":"Threat Detection and Adversarial Examples"
+      "cc":"威胁检测和对抗性样本"
    },
    {
-      "p":"Promptagator: Few-shot Dense Retrieval From 8 Examples",
+      "p":"Promptagator: 利用 8 个实例的少样本高效检索",
       "i":"https://arxiv.org/abs/2209.11755",
       "y":2022,
-      "cc":"Few-shot Learning and Performance Optimization"
+      "cc":"少样本学习和性能优化"
    },
    {
-      "p":"On the Advance of Making Language Models Better Reasoners",
+      "p":"关于使语言模型更好的推理的进展",
       "i":"https://arxiv.org/abs/2206.02336",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Large Language Models are Zero-Shot Reasoners",
+      "p":"大型语言模型是零样本推理器",
       "i":"https://arxiv.org/abs/2205.11916",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Toxicity Detection with Generative Prompt-based Inference",
+      "p":"基于生成式提示的毒性检测",
       "i":"https://arxiv.org/abs/2205.12390",
       "y":2022,
-      "cc":"Threat Detection and Adversarial Examples"
+      "cc":"威胁检测和对抗性样本"
    },
    {
-      "p":"The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning",
+      "p":"文本推理中少样本提示性能不可靠",
       "i":"https://arxiv.org/abs/2205.03401",
       "y":2022,
-      "cc":"Few-shot Learning and Performance Optimization"
+      "cc":"少样本学习和性能优化"
    },
+}{
    {
-      "p":"A Taxonomy of Prompt Modifiers for Text-To-Image Generation",
+      "p":"文本生成图像的提示修饰分类",
       "i":"https://arxiv.org/abs/2204.13988",
       "y":2022,
-      "cc":"Text-to-Image Generation"
+      "cc":"文本生成图像"
    },
    {
-      "p":"PromptChainer: Chaining Large Language Model Prompts through Visual Programming",
+      "p":"PromptChainer: 通过可视化编程链接大型语言模型提示",
       "i":"https://arxiv.org/abs/2203.06566",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+      "p":"自洽性提高语言模型在思维链推理中的表现",
       "i":"https://arxiv.org/abs/2203.11171",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+      "p":"重新考虑演示的角色: 是什么使上下文学习生效?",
       "i":"https://arxiv.org/abs/2202.12837",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Legal Prompt Engineering for Multilingual Legal Judgement Prediction",
+      "p":"多语种法律判决预测的合法提示工程",
       "i":"https://arxiv.org/abs/2212.02199",
       "y":2022,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型应用"
    },
    {
-      "p":"Investigating Prompt Engineering in Diffusion Models",
+      "p":"探索扩散模型中的提示工程",
       "i":"https://arxiv.org/abs/2211.15462",
       "y":2022,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering",
+      "p":"学习解释: 通过思维链进行多模态推理，用于科学问题回答",
       "i":"https://arxiv.org/abs/2209.09513v2",
       "y":2022,
-      "cc":"Reasoning and In-Context Learning"
+      "cc":"推理和上下文学习"
    },
    {
-      "p":"Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language",
+      "p":"使用自然语言解决CS1问题的Copilot对话: 探索提示工程",
       "i":"https://arxiv.org/abs/2210.15157",
       "y":2022,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型应用"
    },
    {
-      "p":"Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?",
+      "p":"试用Copilot和Codex: 热温度、冷提示或黑魔法?",
       "i":"https://arxiv.org/abs/2210.14699",
       "y":2022,
-      "cc":"Overviews"
+      "cc":"综述"
    },
    {
-      "p":"Plot Writing From Scratch Pre-Trained Language Models",
+      "p":"从预训练语言模型中写剧情",
       "i":"https://aclanthology.org/2022.inlg-main.5",
       "y":2022,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型应用"
    },
+   {". 
+}{
+   "p":"链式思考提示在大型语言模型中引发推理",
+   "i":"https://arxiv.org/abs/2201.11903",
+   "y":2021,
+   "cc":"推理和上下文学习"
+},
+{
+   "p":"展示你的工作：用于对话式语言模型的临时纸板",
+   "i":"https://arxiv.org/abs/2112.00114",
+   "y":2021，
+   "cc":"提示工程技术"
+},
+{
+   "p":"生成知识提示用于常识推 理",
+   "i":"https://arxiv.org/abs/2110.08387",
+   "y":2021,
+   "cc":"推理和上下文学习"
+},
+{
+   "p":"重新构造 GPTk 语言的教学提示",
+   "i":"https://arxiv.org/abs/2109.07830",
+   "y":2021,
+   "cc":"提示工程技术"
+},
+{
+   "p":"针对提示工程文本到图像生成模型的设计指南",
+   "i":"https://arxiv.org/abs/2109.06977",
+   "y":2021,
+   "cc":"文本到图像生成"
+},
+{
+   "p":"使预训练语言模型成为更好的小样本学习者",
+   "i":"https://aclanthology.org/2021.acl-long.295",
+   "y":2021,
+   "cc":"小样本学习和性能优化"
+},
+{
+   "p":"奇幻有序提示及其发现方法：克服少样本提示排序敏感性",
+   "i":"https://arxiv.org/abs/2104.08786",
+   "y":2021,
+   "cc":"提示工程技术"
+},
+{
+   "p":"BERTese：学习与 BERT 对话",
+   "i":"https://aclanthology.org/2021.eacl-main.316",
+   "y":2021,
+   "cc":"推理和上下文学习"
+},
+{
+   "p":"规模的威力——面向参数有效的提示调整",
+   "i":"https://arxiv.org/abs/2104.08691",
+   "y":2021,
+   "cc":"提示工程技术"
+},
+{
+   "p":"用于大型语言模型的提示编程：走出小样本学习范式",
+   "i":"https://arxiv.org/abs/2102.07350",
+   "y":2021,
+   "cc":"提示工程技术"
+}{
    {
-      "p":"Chain of Thought Prompting Elicits Reasoning in Large Language Models",
-      "i":"https://arxiv.org/abs/2201.11903",
-      "y":2021,
-      "cc":"Reasoning and In-Context Learning"
-   },
-   {
-      "p":"Show Your Work: Scratchpads for Intermediate Computation with Language Models",
-      "i":"https://arxiv.org/abs/2112.00114",
-      "y":2021,
-      "cc":"Prompt Engineering Techniques"
-   },
-   {
-      "p":"Generated Knowledge Prompting for Commonsense Reasoning",
-      "i":"https://arxiv.org/abs/2110.08387",
-      "y":2021,
-      "cc":"Reasoning and In-Context Learning"
-   },
-   {
-      "p":"Reframing Instructional Prompts to GPTk's Language",
-      "i":"https://arxiv.org/abs/2109.07830",
-      "y":2021,
-      "cc":"Prompt Engineering Techniques"
-   },
-   {
-      "p":"Design Guidelines for Prompt Engineering Text-to-Image Generative Models",
-      "i":"https://arxiv.org/abs/2109.06977",
-      "y":2021,
-      "cc":"Text-to-Image Generation"
-   },
-   {
-      "p":"Making Pre-trained Language Models Better Few-shot Learners",
-      "i":"https://aclanthology.org/2021.acl-long.295",
-      "y":2021,
-      "cc":"Few-shot Learning and Performance Optimization"
-   },
-   {
-      "p":"Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
-      "i":"https://arxiv.org/abs/2104.08786",
-      "y":2021,
-      "cc":"Prompt Engineering Techniques"
-   },
-   {
-      "p":"BERTese: Learning to Speak to BERT",
-      "i":"https://aclanthology.org/2021.eacl-main.316",
-      "y":2021,
-      "cc":"Reasoning and In-Context Learning"
-   },
-   {
-      "p":"The Power of Scale for Parameter-Efficient Prompt Tuning",
-      "i":"https://arxiv.org/abs/2104.08691",
-      "y":2021,
-      "cc":"Prompt Engineering Techniques"
-   },
-   {
-      "p":"Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm",
-      "i":"https://arxiv.org/abs/2102.07350",
-      "y":2021,
-      "cc":"Prompt Engineering Techniques"
-   },
-   {
-      "p":"Calibrate Before Use: Improving Few-Shot Performance of Language Models",
+      "p":"使用前校准：改进语言模型的少样本性能",
       "i":"https://arxiv.org/abs/2102.09690",
       "y":2021,
-      "cc":"Evaluating and Improving Language Models"
+      "cc":"评估和改进语言模型"
    },
    {
-      "p":"Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+      "p":"前缀调优：优化生成的连续提示",
       "i":"https://arxiv.org/abs/2101.00190",
       "y":2021,
-      "cc":"Prompt Engineering Techniques"
+      "cc":"提示工程技术"
    },
    {
-      "p":"AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts",
+      "p":"AutoPrompt: 使用自动生成的提示从语言模型中引出知识",
       "i":"https://arxiv.org/abs/2010.15980",
       "y":2020,
-      "cc":"Applications of Language Models"
+      "cc":"语言模型应用"
    },
    {
-      "p":"Language Models are Few-Shot Learners",
+      "p":"语言模型是少样本学习器",
       "i":"https://arxiv.org/abs/2005.14165",
       "y":2020,
-      "cc":"Few-shot Learning and Performance Optimization"
+      "cc":"少样本学习和性能优化"
    },
    {
-      "p":"How Can We Know What Language Models Know?",
+      "p":"我们如何知道语言模型知道什么？",
       "i":"https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00324/96460/How-Can-We-Know-What-Language-Models-Know",
       "y":2020,
-      "cc":"Threat Detection and Adversarial Examples"
+      "cc":"威胁检测和对抗样本"
    }
 ]
