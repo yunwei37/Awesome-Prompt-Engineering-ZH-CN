@@ -1,0 +1,20 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: yunwei37/OpenAI-Continuous-Translator@master
+      with:
+          git_repo_url: https://github.com/promptslab/Awesome-Prompt-Engineering
+          api_key: ${{ secrets.OPENAI_API_KEY }}
+          file_types: "md"
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: my-artifact
+        path: .
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
