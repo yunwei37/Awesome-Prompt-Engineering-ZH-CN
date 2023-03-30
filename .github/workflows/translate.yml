@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: yunwei37/OpenAI-Continuous-Translator@master
+    - uses: yunwei37/OpenAI-Continuous-Translator@v1
       with:
           git_repo_url: https://github.com/promptslab/Awesome-Prompt-Engineering
           api_key: ${{ secrets.OPENAI_API_KEY }}
