@@ -188,6 +188,7 @@
 | :-------------------- | :----------: | :----------: |
 | **P3 (Public Pool of Prompts)** | P3 (Public Pool of Prompts) 是一个包含各种 NLP 任务的 prompted English 数据集集合。 | [[HuggingFace]](https://huggingface.co/datasets/bigscience/P3) |
 | **Awesome ChatGPT Prompts** | 该仓库包括用于更好地使用 ChatGPT 的 ChatGPT prompt curation。 | [[Github]](https://github.com/f/awesome-chatgpt-prompts) |"## 模型
+| **God Tier Prompts** | 一个由社区驱动的排行榜，让最好的提示脱颖而出。 | [[URL]](https://www.godtierprompts.com) |
 
 🧠
 
