@@ -158,6 +158,7 @@
 |      名称              | 描述  | 链接 |
 | :-------------------- | :----------: | :----------: |
 | **GPT Index** | GPT Index 是一个由一组数据结构组成的项目，旨在使使用大型外部知识库与 LLM 更轻松。 | [[Github]](https://github.com/jerryjliu/gpt_index) |
+| **WFGY 16 Problem Map** | 一个针对 LLM 流水线的供应商中立故障排查地图，重点关注 RAG、向量存储和长上下文提示。定义了 16 种具体的故障模式，并提供症状说明和最小化修复策略。 | [[Github]](https://github.com/onestardao/WFGY/tree/main/ProblemMap/README.md) |
 | **Promptify** | 使用 LLM 解决 NLP 问题，使用 Promptify 轻松为 GPT、PaLM 等流行生成模型生成不同的 NLP 任务提示 | [[Github]](https://github.com/promptslab/Promptify) |
 | **Better Prompt** | 在将 LLM 提示推送到生产之前测试测试套件 | [[Github]](https://github.com/krrishdholakia/betterprompt) |
 | **Interactive Composition Explorerx** | ICE 是一个 Python 库和语言模型程序的跟踪可视化器。 | [[Github]](https://github.com/oughtinc/ice) |
